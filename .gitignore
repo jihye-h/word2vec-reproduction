@@ -1,0 +1,8 @@
+/.idea
+*.txt
+*.pickle
+/onebilliondataset
+/tokendata
+.vscode
+*_0509
+w2v_randvec
